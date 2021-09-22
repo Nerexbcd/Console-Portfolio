@@ -1,0 +1,19 @@
+.part1 {
+    justify-content: center;
+    height: 500px;
+    padding: 100px;
+  }
+.text1 {
+    width: 45%;
+}
+.title-t1 {
+    font-size: xx-large;
+}
+.image1 {
+    margin-left: 1%;
+}
+
+.text-t1 {
+    font-size: large;
+    word-wrap: break-word;
+}

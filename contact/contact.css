@@ -1,0 +1,8 @@
+  .part1 {
+    justify-content: center; 
+    height: 500px;
+    padding: 100px;
+  }
+  .part1 a {
+    font-size: 20px;
+  }
