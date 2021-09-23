@@ -43,7 +43,7 @@ body{
 }
 
 .part1 {
-  background-color: #000000;
+  background-color: #858585;
   display: flex; 
 }
 
@@ -65,9 +65,9 @@ footer {
   display: flex;
   position: absolute;
   justify-content: center;
-  bottom: 0;
+/*  bottom: 0; */
   width: 100%;
-  padding: 40px;
+  padding: 20px;
   background-color: #000000;
 }
 

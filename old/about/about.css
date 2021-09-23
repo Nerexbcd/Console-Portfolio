@@ -1,7 +1,7 @@
 .part1 {
     justify-content: center;
-    height: 500px;
-    padding: 100px;
+    height: 400px;
+    padding: 50px;
   }
 .text1 {
     width: 45%;
@@ -9,8 +9,17 @@
 .title-t1 {
     font-size: xx-large;
 }
-.image1 {
+.propic {
     margin-left: 1%;
+    height: 300px;
+    width: 300px; 
+}
+
+.avatar {
+    height: 300px;
+    width: 300px;
+    overflow: hidden;
+    border-radius: 50% !important;
 }
 
 .text-t1 {
