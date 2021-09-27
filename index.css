@@ -10,6 +10,7 @@
 }
 body {
     background: #0d1117;
+
 }
 #navcon{
     display: flex;  
@@ -99,11 +100,19 @@ body {
     color: #ff0000;
     font-size: 30px;
 }
+.spacediv {
+    width: 100%;
+    margin-top: 55px;
+    height: 15px;
+    color: #0d1117;
+    border-color: #0d1117;
+}
+
 footer {
     display: flex;
-    position: absolute;
+    position: fixed;
     justify-content: center;
-/*    bottom: 0; */
+    bottom: 0;
     width: 100%;
     padding: 20px;
     background-color: #0d1117;
