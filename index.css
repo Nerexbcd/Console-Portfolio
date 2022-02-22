@@ -84,7 +84,7 @@ body {
 }
 
 .center_vert{
-    margin-top: auto;
+    margin-top:auto;
     margin-bottom: auto;
 }
 .center_hor{
@@ -136,6 +136,9 @@ body {
 }
 .section2 {
     background: #0c0d0d;
+}
+.big_erro {
+    font-size: 100px;
 }
 footer {
     display: flex;
