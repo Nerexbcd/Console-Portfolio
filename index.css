@@ -9,7 +9,7 @@
     color: #ffffff;
 }
 body {
-    background: #0d1117;
+    background: #0c0d0d;
 
 }
 #navcon{
@@ -23,7 +23,7 @@ body {
     align-items: center;
     justify-content: center;
     padding: 20px;
-    background: #161b22;
+    background: #010100;
 
     position: fixed;
     top: 0;
@@ -40,33 +40,106 @@ body {
     float: right;
 
 }
+.li {
+    width: fit-content;
+    margin-left: 15px;
+}
+.li a:hover {
+    color: #7a7a7a;
+}
+.ul {
+    display: flex;
+    text-align: right;
+    justify-content: right;
+    list-style-type: none;
+}
 #header {
-    margin-top: 120px;
     padding-bottom: 100px;
-    padding: 50px;
+    padding-bottom: 0px;
     justify-content: center;
 }
-.container-center {
+.top-margin {
+    margin-top: 70px;
+}
+.center-c {
     display: flex;
-    align-items: center;
     justify-content: center;
+}
+.right-c {
+    display:flex;
+    justify-content:right;
+}
+.left-c {
+    display: flex;
+    justify-content: left;
+}
+
+.le_p{
+    width: 300px;
+    height: 465px;
+    margin-bottom: 48px;
+}
+#main_c{
+    display: flex;
+}
+
+.center_vert{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.center_hor{
+    margin-left: auto;
+    margin-right: auto;
+}
+.main_c_le{
+    margin-left: 200px;
+}
+.main_c_ri{
+    margin-right: 200px;
+}
+.cut{
+    width: 30%
+}
+.cut2{
+    width: 70%
+}
+
+.space_50px_ri{
+    margin: 50px
+}
+
+.avatar{
+    border-radius: 180px;
+    width: 300px;
+    height: 300px;
+    margin-bottom: 48px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.title {
+    font-size: 60px;
+}
+.description {
+    font-size: 35px;
 }
 .link {
     text-decoration: underline ;
 }
 .aviso {
-    font-size: 60px;
     color: #ff0000;
 }
-
+.section {
+    padding: 50px;
+}
+.section1 {
+    background: #0000005e;
+}
+.section2 {
+    background: #0c0d0d;
+}
 footer {
     display: flex;
     justify-content: center;
-    bottom: 0;
-    position: fixed;
-    width: 100%;
     padding: 20px;
-    margin-top: 20px;
-    background-color: #0d1117;
+    background-color: #010100;
   }
-/* #010409 */
