@@ -1,148 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Courier Prime', monospace;
-    outline: none;
-    text-decoration: none;
-    color: #ffffff;
 }
+
 body {
-    background: #0c0d0d;
-
-}
-#navcon{
-    display: flex;  
-    width: 100%;
-    justify-content: center;
-    font-size: 27px;
-}
-.mainnav{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 20px;
-    background: #010100;
-
-    position: fixed;
-    top: 0;
-    right: 0;
-    left: 0;
-    z-index: 1030;
-}
-.navbc {
-    width: 30%;
-    left: 0;
-}
-#navbar {
-    width: 70%;
-    float: right;
-
-}
-.li {
-    width: fit-content;
-    margin-left: 15px;
-}
-.li a:hover {
-    color: #7a7a7a;
-}
-.ul {
-    display: flex;
-    text-align: right;
-    justify-content: right;
-    list-style-type: none;
-}
-#header {
-    padding-bottom: 100px;
-    padding-bottom: 0px;
-    justify-content: center;
-}
-.top-margin {
-    margin-top: 70px;
-}
-.center-c {
-    display: flex;
-    justify-content: center;
-}
-.right-c {
-    display:flex;
-    justify-content:right;
-}
-.left-c {
     display: flex;
     justify-content: left;
+    align-items: end;
+    background-color: #0d0c0d;
+    color: #00FF00;
 }
-
-.le_p{
-    width: 300px;
-    height: 465px;
-    margin-bottom: 48px;
+.red{
+    color: #FF0000;
 }
-#main_c{
-    display: flex;
+.blue{
+    color: #0000FF;
 }
-
-.center_vert{
-    margin-top:auto;
-    margin-bottom: auto;
+.yellow{
+    color: #FFFF00;
 }
-.center_hor{
-    margin-left: auto;
-    margin-right: auto;
+.orange{
+    color: #FFA500;
 }
-.main_c_le{
-    margin-left: 200px;
-}
-.main_c_ri{
-    margin-right: 200px;
-}
-.cut{
-    width: 30%
-}
-.cut2{
-    width: 70%
-}
-
-.space_50px_ri{
-    margin: 50px
-}
-
-.avatar{
-    border-radius: 180px;
-    width: 300px;
-    height: 300px;
-    margin-bottom: 48px;
-    margin-left: auto;
-    margin-right: auto;
-}
-.title {
-    font-size: 60px;
-}
-.description {
-    font-size: 35px;
-}
-.link {
-    text-decoration: underline ;
-}
-.aviso {
-    color: #ff0000;
-}
-.section {
-    padding: 50px;
-}
-.section1 {
-    background: #0000005e;
-}
-.section2 {
-    background: #0c0d0d;
-}
-.big_erro {
-    font-size: 100px;
-}
-footer {
-    display: flex;
-    justify-content: center;
-    padding: 20px;
-    background-color: #010100;
-  }
