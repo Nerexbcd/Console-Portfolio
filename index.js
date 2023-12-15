@@ -1,5 +1,5 @@
 var socials = ["Github"]
-var socialsref = ["https://github.com/apascoa"]
+var socialsref = ["https://github.com/nerexbcd"]
 var aboutmetxt = "Under development"
 
 function newmainp(){
