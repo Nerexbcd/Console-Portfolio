@@ -6,3 +6,6 @@ This project was one of the first projects that I created, a long time ago, when
 ## Hosted Example
 Currently the website is being hosted on GitHub Pages to show how it would look like, and maybe inspire other developers to try to make something similar.  
 The website is hosted on [nerexbcd.github.io/Console-Portfolio](https://nerexbcd.github.io/Console-Portfolio/) if You want to check it out.
+
+## Example Printscreen
+![./Example Print screen.png](https://github.com/Nerexbcd/Console-Portfolio/blob/main/Example%20Print%20screen.png)
